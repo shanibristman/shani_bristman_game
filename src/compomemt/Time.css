@@ -1,0 +1,9 @@
+.time{
+    width: 60px;
+    height:20px;
+    background-color:aqua;
+    padding:10px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
